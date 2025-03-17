@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmarket_data_lib.a CMakeFiles/market_data_lib.dir/FeedHandler.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmarket_data_lib.a
